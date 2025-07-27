@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Shakib Al Hasan",
+      "description": "loren impsum",
+      "price": 12,
+      "category": "beauty"
+    },
+    {
+      "id": "qFBC87cZtP8UwYHOeyoCT",
+      "title": "Labore perferendis s",
+      "description": "Saepe sit exercitati",
+      "price": "260",
+      "category": "Dolor ratione fugiat"
+    },
+    {
+      "id": "C_o76TjUzM-qaz8NpI1sx",
+      "title": "Voluptas ipsum aliqu",
+      "description": "Ratione tempore nih",
+      "price": "393",
+      "category": "Non cillum facere si"
+    },
+    {
+      "id": "SwLUs4hXG2K2corHwhXa9",
+      "title": "Ad et impedit culpa",
+      "description": "Quasi inventore et a",
+      "price": "846",
+      "category": "Nobis minim tempora "
+    },
+    {
+      "id": "eEEBLDxtMUwlDaCK_4zI5",
+      "title": "Minim sit ad perspi",
+      "description": "Enim adipisicing seq",
+      "price": "321",
+      "category": "Eligendi perspiciati"
+    },
+    {
+      "id": "z23RnbDrrsxavwN_VWnbG",
+      "title": "|Sha",
+      "description": "fjkydj",
+      "price": "000",
+      "category": "gfsadgfd"
+    }
+  ]
+}
