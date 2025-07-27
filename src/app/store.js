@@ -1,7 +1,7 @@
 import  productReducer from '@/features/products/productSlice'
 import { configureStore } from '@reduxjs/toolkit'
 import { productsApi } from './services/productsApi'
-// import { setupListeners } from '@reduxjs/toolkit/query'
+import { setupListeners } from '@reduxjs/toolkit/query'
 
 export const store = configureStore({
   reducer: {
@@ -17,4 +17,4 @@ export const store = configureStore({
 
 // optional, but required for refetchOnFocus/refetchOnReconnect behaviors
 // see `setupListeners` docs - takes an optional callback as the 2nd arg for customization
-// setupListeners(store.dispatch)
+setupListeners(store.dispatch)
